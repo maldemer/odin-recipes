@@ -16,3 +16,15 @@ img {
     height: 400px;
     border-radius: 50%;
 }
+
+footer {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+}
+
+.page01 {
+    height: 1000px;
+}
