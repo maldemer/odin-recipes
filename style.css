@@ -1,5 +1,6 @@
 h1 {
     color: blue;
+    font-size: 36px;
 }
 
 .page01,
@@ -26,5 +27,9 @@ footer {
 }
 
 .page01 {
-    height: 1000px;
+    height: 500px;
+}
+
+.list {
+    font-size: 24px;
 }
