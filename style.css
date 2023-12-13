@@ -6,6 +6,10 @@ h1 {
     background-color: white;
 }
 
+h2 {
+    text-align: center;
+}
+
 .page01,
 .page02,
 .page03,
@@ -41,7 +45,9 @@ footer {
     padding: 0 15px 0 5px;
 }
 
-.list02 {
+.list02,
+.list03,
+.list04 {
     font-size: 20px;
     border: 1px solid blue;
     /*border-radius: 10%;*/
@@ -49,13 +55,5 @@ footer {
     padding: 15px 15px 15px 15px;
 }
 
-.list03 {
-    font-size: 20px;
-    border: 1px solid blue;
-    /*border-radius: 10%;*/
-    background-color: white;
-    padding: 15px 15px 15px 15px;
-}
- .prep {
-    text-align: center;
- }
+
+ 
