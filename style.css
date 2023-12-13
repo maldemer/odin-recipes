@@ -1,6 +1,9 @@
 h1 {
     color: blue;
     font-size: 36px;
+    border: 1px solid blue;
+    padding: 0 5px 0 5px;
+    background-color: white;
 }
 
 .page01,
@@ -30,6 +33,29 @@ footer {
     height: 1000px;
 }
 
-.list {
-    font-size: 24px;
+.list01 {
+    font-size: 20px;
+    border: 1px solid blue;
+    border-radius: 10%;
+    background-color: white;
+    padding: 0 15px 0 5px;
 }
+
+.list02 {
+    font-size: 20px;
+    border: 1px solid blue;
+    /*border-radius: 10%;*/
+    background-color: white;
+    padding: 15px 15px 15px 15px;
+}
+
+.list03 {
+    font-size: 20px;
+    border: 1px solid blue;
+    /*border-radius: 10%;*/
+    background-color: white;
+    padding: 15px 15px 15px 15px;
+}
+ .prep {
+    text-align: center;
+ }
