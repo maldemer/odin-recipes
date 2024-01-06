@@ -10,6 +10,11 @@ h2 {
     text-align: center;
 }
 
+.page01 {
+    margin-top: 100px;
+    height: 400px;
+}
+
 .page01,
 .page02,
 .page03,
@@ -33,10 +38,6 @@ footer {
     background-color: black;
 }
 
-.page01 {
-    height: 1000px;
-}
-
 .list01 {
     font-size: 20px;
     border: 1px solid blue;
@@ -55,5 +56,7 @@ footer {
     padding: 15px 15px 15px 15px;
 }
 
-
+.list03 {
+    margin-bottom: 10px;
+}
  
