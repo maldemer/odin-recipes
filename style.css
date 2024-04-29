@@ -16,3 +16,7 @@ div {
 * {
     background-color: aliceblue;
 }
+ 
+.image {
+    align-self: center;
+}
