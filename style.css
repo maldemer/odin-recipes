@@ -36,3 +36,19 @@ div {
     margin-right: 500px;
     text-align: left;
 }
+
+.steps {
+    align-items: center;
+    border: 2px solid black;
+    margin-right: 500px;
+    text-align: left;
+}
+
+.wrapup {
+    align-items: center;
+    border: 2px solid black;
+    margin-right: 500px;
+    padding-left: 20px;
+    text-align: left;
+    margin-top: 10px;
+}
