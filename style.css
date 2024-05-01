@@ -1,6 +1,7 @@
 h1,
 h3 {
-    text-align: center;
+    /*text-align: center;*/
+    margin-left: 400px;
     color: red;
 }
 
