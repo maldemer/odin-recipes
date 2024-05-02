@@ -53,3 +53,8 @@ div {
     text-align: left;
     margin-top: 10px;
 }
+
+.ingredients p {
+    margin-left: 20px;
+    color: blue;
+}
