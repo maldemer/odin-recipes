@@ -1,3 +1,7 @@
+body {
+    background-color: palegoldenrod;
+}
+
 h1,
 h3 {
     /*text-align: center;*/
@@ -15,10 +19,6 @@ div {
     border: 2px solid black;
 }
 
-* {
-    background-color: aliceblue;
-}
- 
 .image {
     align-self: center;
 }
@@ -28,21 +28,27 @@ div {
     border: 2px solid black;
     margin-right: 500px;
     padding-left: 20px;
+    padding-right: 20px;
     text-align: left;
+    background-color: azure;
 }
 
 .ingredients {
     align-items: center;
     border: 2px solid black;
     margin-right: 500px;
+    padding-right: 20px;
     text-align: left;
+    background-color: azure;
 }
 
 .steps {
     align-items: center;
     border: 2px solid black;
+    padding-right: 20px;
     margin-right: 500px;
     text-align: left;
+    background-color: azure;
 }
 
 .wrapup {
@@ -50,8 +56,10 @@ div {
     border: 2px solid black;
     margin-right: 500px;
     padding-left: 20px;
+    padding-right: 20px;
     text-align: left;
     margin-top: 10px;
+    background-color: azure;
 }
 
 .ingredients p {
