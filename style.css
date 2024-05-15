@@ -66,3 +66,9 @@ div {
     margin-left: 20px;
     color: blue;
 }
+
+.link {
+    background-color: azure;
+    margin-right: 600px;
+    text-align: center;
+}
